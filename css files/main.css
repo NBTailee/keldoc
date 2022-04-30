@@ -439,7 +439,7 @@ button[class ^= navbar]:hover{
         grid-gap: 10px;
     }
     .grid-1{
-        background: url('/image/grid-1.png') no-repeat;
+        background: url('image/grid-1.png') no-repeat;
         border-radius: 8px;
         overflow: hidden;
         background-size: cover;

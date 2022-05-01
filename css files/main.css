@@ -792,7 +792,7 @@ button[class ^= navbar]:hover{
     }
     /* animation section */
     .slide-in-1{
-        background: url('/image/grid-1.png') no-repeat;
+        background: url('/keldoc/image/grid-1.png') no-repeat;
         border-radius: 8px;
         width: 400px;
         overflow: hidden;
@@ -810,7 +810,7 @@ button[class ^= navbar]:hover{
         transform: translateY(0);
         transition: var(--transition);
         transition-delay: 0.3s;
-        background: url('/image/grid-2.jpg') no-repeat;
+        background: url('/keldoc/image/grid-2.jpg') no-repeat;
         border-radius: 8px;
         overflow: hidden;
         background-size: cover;
@@ -821,7 +821,7 @@ button[class ^= navbar]:hover{
         transform: translateY(0);
         transition: var(--transition);
         transition-delay: 0.4s;
-        background: url('/image/grid-3.jpg') no-repeat;
+        background: url('/keldoc/image/grid-3.jpg') no-repeat;
         border-radius: 8px;
         overflow: hidden;
         background-size: cover;
@@ -832,7 +832,7 @@ button[class ^= navbar]:hover{
         transform: translateX(0);
         transition: var(--transition);
         transition-delay: 0.5s;
-        background: url('/image/grid-4.jpg') no-repeat;
+        background: url('/keldoc/image/grid-4.jpg') no-repeat;
         border-radius: 8px;
         overflow: hidden;
         background-size: cover;
@@ -844,7 +844,7 @@ button[class ^= navbar]:hover{
         transform: translateY(0);
         transition: var(--transition);
         transition-delay: 0.6s;
-        background: url('/image/grid-5.png') no-repeat;
+        background: url('/keldoc/image/grid-5.png') no-repeat;
         border-radius: 8px;
         overflow: hidden;
         background-size: cover;
@@ -856,7 +856,7 @@ button[class ^= navbar]:hover{
         transform: translateY(0);
         transition: var(--transition);
         transition-delay: 0.7s;
-        background: url('/image/grid-6.jpg') no-repeat;
+        background: url('/keldoc/image/grid-6.jpg') no-repeat;
         border-radius: 8px;
         overflow: hidden;
         height: 320px;

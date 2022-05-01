@@ -876,7 +876,7 @@ button[class ^= navbar]:hover{
         top: 150px;
     }
     .thank-content{
-        padding: 30px 5px 0 0px;
+        padding: 30px 5px 0 0;
         margin-right: 20px;
         line-height: 1.4;
         color: var(--light-gray);

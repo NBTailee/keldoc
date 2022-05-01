@@ -439,7 +439,7 @@ button[class ^= navbar]:hover{
         grid-gap: 10px;
     }
     .grid-1{
-        background: url('/image/grid-1.png') no-repeat;
+        background: url('/keldoc/image/grid-1.png') no-repeat;
         border-radius: 8px;
         overflow: hidden;
         background-size: cover;
@@ -450,7 +450,7 @@ button[class ^= navbar]:hover{
         transition: var(--transition);
     }
     .grid-4{
-        background: url('/image/grid-4.jpg') no-repeat;
+        background: url('/keldoc/image/grid-4.jpg') no-repeat;
         border-radius: 8px;
         overflow: hidden;
         background-size: cover;
@@ -588,7 +588,7 @@ button[class ^= navbar]:hover{
         grid-gap: 10px;
     }
     .grid-1{
-        background: url('/image/grid-1.png') no-repeat;
+        background: url('/keldoc/image/grid-1.png') no-repeat;
         border-radius: 8px;
         overflow: hidden;
         background-size: cover;
@@ -599,7 +599,7 @@ button[class ^= navbar]:hover{
         transition: var(--transition);
     }
     .grid-4{
-        background: url('/image/grid-4.jpg') no-repeat;
+        background: url('/keldoc/image/grid-4.jpg') no-repeat;
         border-radius: 8px;
         overflow: hidden;
         background-size: cover;
@@ -610,7 +610,7 @@ button[class ^= navbar]:hover{
         transition: var(--transition);
     }
     .grid-6{
-        background: url('/image/grid-6.jpg') no-repeat;
+        background: url('/keldoc/image/grid-6.jpg') no-repeat;
         border-radius: 8px;
         overflow: hidden;
         background-size: cover;
@@ -621,7 +621,7 @@ button[class ^= navbar]:hover{
         transition: var(--transition); 
     }
     .grid-5{
-        background: url('/image/grid-5.png') no-repeat;
+        background: url('/keldoc/image/grid-5.png') no-repeat;
         border-radius: 8px;
         overflow: hidden;
         background-size: cover;
@@ -724,7 +724,7 @@ button[class ^= navbar]:hover{
         padding: 50px 50px 30px 20px;
     }
     .grid-1{
-        background: url('/image/grid-1.png') no-repeat;
+        background: url('/keldoc/image/grid-1.png') no-repeat;
         border-radius: 8px;
         width: 400px;
         overflow: hidden;
@@ -736,7 +736,7 @@ button[class ^= navbar]:hover{
         transition: var(--transition);
     }
     .grid-2{
-        background: url('/image/grid-2.jpg') no-repeat;
+        background: url('/keldoc/image/grid-2.jpg') no-repeat;
         border-radius: 8px;
         overflow: hidden;
         background-size: cover;
@@ -746,7 +746,7 @@ button[class ^= navbar]:hover{
         transition: var(--transition);
     }
     .grid-3{
-        background: url('/image/grid-3.jpg') no-repeat;
+        background: url('/keldoc/image/grid-3.jpg') no-repeat;
         border-radius: 8px;
         overflow: hidden;
         background-size: cover;
@@ -756,7 +756,7 @@ button[class ^= navbar]:hover{
         transition: var(--transition);
     }
     .grid-4{
-        background: url('/image/grid-4.jpg') no-repeat;
+        background: url('/keldoc/image/grid-4.jpg') no-repeat;
         border-radius: 8px;
         overflow: hidden;
         background-size: cover;
@@ -767,7 +767,7 @@ button[class ^= navbar]:hover{
         transition: var(--transition);
     }
     .grid-5{
-        background: url('/image/grid-5.png') no-repeat;
+        background: url('/keldoc/image/grid-5.png') no-repeat;
         border-radius: 8px;
         overflow: hidden;
         background-size: cover;
@@ -778,7 +778,7 @@ button[class ^= navbar]:hover{
         transition: var(--transition);
     }
     .grid-6{
-        background: url('/image/grid-6.jpg') no-repeat;
+        background: url('/keldoc/image/grid-6.jpg') no-repeat;
         border-radius: 8px;
         overflow: hidden;
         height: 320px;
